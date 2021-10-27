@@ -1,1 +1,1 @@
-# thegitrockspractice
+# The git is actually rocki
